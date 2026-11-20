@@ -8,11 +8,6 @@ RESTful API for AquaMonitor. It registers water quality sampling plans for monit
 - MySQL running on port `3307` (user `root`, password `password`, schema `aqua_monitor`)
 
 ## Run
-
-```bash
-./mvnw spring-boot:run
-```
-
 Swagger UI: http://localhost:8080/swagger-ui/index.html
 
 ## Endpoint
